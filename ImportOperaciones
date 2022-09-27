@@ -1,4 +1,4 @@
-import operaciones as o
+import Operaciones as o
 
 a=float(input('Introduce un número para a:'))
 b=float(input('Introduce un número para b:'))
